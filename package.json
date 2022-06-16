@@ -1,8 +1,8 @@
 {
   "name": "duck-table",
-  "productName": "duck-table",
+  "productName": "DuckTable",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "An open-source spreadsheet desktop application.",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -96,6 +96,7 @@
     "@mui/material": "^5.8.4",
     "electron-squirrel-startup": "^1.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-split": "^2.0.14"
   }
 }
